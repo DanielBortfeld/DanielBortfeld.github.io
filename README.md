@@ -4,10 +4,10 @@
 
 Further pages:    
 
-+ [Pathfinding in the Windows Console (C++)](https://ogoxhammerschild.github.io/Console-Pathfinding/)    
-+ [CollisionManager for the MonoGame-Framework (C#)](https://ogoxhammerschild.github.io/Collision/)    
-+ [Dynamic Delegate (C++)](https://ogoxhammerschild.github.io/DynamicDelegate/)    
-+ [Etos Main Page](https://ogoxhammerschild.github.io/Etos/)   
++ [Pathfinding in the Windows Console (C++)](https://danielbortfeld.github.io/Console-Pathfinding/)    
++ [CollisionManager for the MonoGame-Framework (C#)](https://danielbortfeld.github.io/Collision/)    
++ [Dynamic Delegate (C++)](https://danielbortfeld.github.io/DynamicDelegate/)    
++ [Etos Main Page](https://danielbortfeld.github.io/Etos/)   
 
 # Etos   
 
@@ -17,7 +17,7 @@ Build a strong economy with complex ware production chains and fulfil the challe
 
 Etos is a student project which I was working on in order to learn how to handle the Unreal Engine 4 and its features.   
 
-## [View Etos on GitHub](https://github.com/OgoxHammerschild/Etos)    
+## [View Etos on GitHub](https://github.com/DanielBortfeld/Etos)    
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/N4IIhWtp3jI" frameborder="0" gesture="media" allowfullscreen></iframe>   
 
@@ -28,7 +28,7 @@ Etos is a student project which I was working on in order to learn how to handle
 
 Example for a wareproduction-chain in Etos.
    
-![tools](https://raw.githubusercontent.com/OgoxHammerschild/Etos/master/docs/images/Produktionskette_White.png)   
+![tools](https://raw.githubusercontent.com/DanielBortfeld/Etos/master/docs/images/Produktionskette_White.png)   
 
 ***   
 
@@ -43,9 +43,9 @@ Example for a wareproduction-chain in Etos.
 	
 Further pages:    
 
-+ [Etos Main Page](https://ogoxhammerschild.github.io/Etos/)   
-+ [Pathfinding in the Windows Console (C++)](https://ogoxhammerschild.github.io/Console-Pathfinding/)    
-+ [CollisionManager for the MonoGame-Framework (C#)](https://ogoxhammerschild.github.io/Collision/)    
-+ [Dynamic Delegate (C++)](https://ogoxhammerschild.github.io/DynamicDelegate/)    
++ [Etos Main Page](https://danielbortfeld.github.io/Etos/)   
++ [Pathfinding in the Windows Console (C++)](https://danielbortfeld.github.io/Console-Pathfinding/)    
++ [CollisionManager for the MonoGame-Framework (C#)](https://danielbortfeld.github.io/Collision/)    
++ [Dynamic Delegate (C++)](https://danielbortfeld.github.io/DynamicDelegate/)    
 
 ***   
